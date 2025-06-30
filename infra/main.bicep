@@ -51,7 +51,7 @@ module webapp 'br/public:avm/res/web/static-site:0.7.0' = {
     sku: 'Standard'
   }
 }
-param webapiName string = 'jamani-ai'
+param webapiName string = 'lesuuda-ai'
 param appServicePlanName string = 'appserviceplan'
 module serverfarm 'br/public:avm/res/web/serverfarm:0.4.1' = {
   name: 'appserviceplan'
