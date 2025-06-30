@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://aka.ms/ai-foundry-vsc/agent/1.0.0
 version: 1.0.0
-name: my-agent.agent
+name: my-agent
 description: Description of the agent
 id: asst_JR2rRNjGLdO0ilyJ1qEBpGIx
 metadata:
